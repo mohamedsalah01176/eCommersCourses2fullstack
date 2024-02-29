@@ -1,0 +1,9 @@
+.card {
+  transition: 0.5s;
+  box-shadow: 0 5px 10px #aaa8a8;
+  text-decoration: none;
+}
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 0 5px 10px #212020;
+}/*# sourceMappingURL=product.module.css.map */

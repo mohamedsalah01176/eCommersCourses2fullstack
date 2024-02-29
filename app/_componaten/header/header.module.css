@@ -1,0 +1,21 @@
+.navbar-nav {
+  --bs-scroll-height: 100px;
+}
+
+.logo {
+  transition: 0.5s;
+  color: green;
+  text-decoration: none;
+}
+.logo:hover {
+  transform: scale(1.1);
+}
+
+.link {
+  transition: 0.5s;
+  text-decoration: none;
+}
+.link:hover {
+  color: green;
+  transform: scale(1.06);
+}/*# sourceMappingURL=header.module.css.map */
